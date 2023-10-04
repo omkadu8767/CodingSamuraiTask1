@@ -1,0 +1,26 @@
+.text-center{
+  text-align: center;
+  color: white;
+  margin-top: 5%;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.bg-red{
+  background: red;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display:flex;
+  margin-top: 10vw;
+} 
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
